@@ -9,16 +9,16 @@ Alpaca is a implementation of "Tree of Thoughts Reasoning" algorithm. It provide
 - 🔍 Supports both Breadth-First Search (BFS) and Depth-First Search (DFS)
 - 🛠 Modular architecture for easy customization and extension
 - 📊 Built-in state evaluation and thought generation
-- 🔗 Retrieval-Augmented Generation (RAG)
+- 🔗 Built-in Retrieval-Augmented Generation (RAG)
 
 ## Key Components
 
-- Thought Decomposition Service
+- Thought Decomposition
 - Prompt Service
-- Thought Generator Service
-- State Evaluator Service
-- Search Service
-- ToT Facade
+- Thought Generator
+- State Evaluator
+- Search
+- Tree of Thoughts Facade
 
 ## License
 
