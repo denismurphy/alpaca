@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "alpaca"
+version = "0.1.0"
+description = "Tree of Thoughts implementation using FastAPI"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12.6"
+fastapi = "^0.114.2"
+uvicorn = "^0.30.6"
+pydantic = "^2.9.1"
+httpx = "^0.27.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.3.3"
+pytest-asyncio = "^0.24.0"
+
+[build-system]
+requires = ["poetry-core>=1.9.0"]
+build-backend = "poetry.core.masonry.api"
