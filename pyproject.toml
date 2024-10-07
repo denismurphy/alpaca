@@ -2,7 +2,7 @@
 name = "alpaca"
 version = "0.1.0"
 description = "Tree of Thoughts implementation using FastAPI"
-authors = ["Your Name <your.email@example.com>"]
+authors = [""]
 
 [tool.poetry.dependencies]
 python = "^3.12.6"
