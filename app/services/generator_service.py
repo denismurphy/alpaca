@@ -1,4 +1,6 @@
 import random
+from typing import List
+
 from app.models.problem import Problem
 from app.models.state import State
 from app.models.thought import Thought
