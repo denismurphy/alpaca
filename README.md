@@ -1,6 +1,6 @@
-# Alpaca - Implementation of "Tree of Thoughts Reasoning" for LLM's
+# Alpaca - Implementation of "Tree of Thoughts Reasoning"
 
-Alpaca is a implementation of "Tree of Thoughts Reasoning" algorithm. It provides a framework for problem-solving tasks by leveraging large language models (LLMs) in a structured, tree-based search approach.
+Implementation of "Tree of Thoughts Reasoning" algorithm. It provides a framework for problem-solving tasks by leveraging large language models (LLMs) in a structured, tree-based search approach.
 
 ## Features
 
